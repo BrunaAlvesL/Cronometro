@@ -59,3 +59,5 @@ const resetTimer = () => {
 document.getElementById('power').addEventListener('click', toggleTimer);
 document.getElementById('mark').addEventListener('click', markTime);
 document.getElementById('reset').addEventListener('click', resetTimer);
+
+
